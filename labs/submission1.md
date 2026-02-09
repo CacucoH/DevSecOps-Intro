@@ -32,3 +32,9 @@
 - SQLi — Multiple endpoints vulnerable to SQLi, allowing data extraction or manipulation (critical risk in login/products)
 - Authorization Bypass — API flaws enable role escalation or admin access without proper checks (critical for privilege escalation)
 - Cross-Site Scripting (XSS) — Reflected/stored XSS in search/comments, executable in user browsers (high risk for session theft)
+
+## GitHub Community
+
+**Starring repositories** matters in open source because it bookmarks useful projects for your future reference, signals appreciation to maintainers (boosting their motivation), and increases project visibility through GitHub's algorithms. High star counts attract more contributors and help you showcase relevant technologies on your profile to potential employers
+
+**Following developers** helps team projects by keeping you updated on classmates' progress and code patterns, while professionally it exposes you to real-world problem-solving approaches and builds your network for future collaborations and career opportunities
